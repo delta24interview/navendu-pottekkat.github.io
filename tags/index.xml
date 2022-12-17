@@ -11,22 +11,283 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jan 2022 19:21:50 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Dec 2022 10:04:02 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>apache apisix</title>
+      <link>https://navendu.me/tags/apache-apisix/</link>
+      <pubDate>Fri, 16 Dec 2022 10:04:02 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/apache-apisix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud-native</title>
+      <link>https://navendu.me/tags/cloud-native/</link>
+      <pubDate>Fri, 16 Dec 2022 10:04:02 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/cloud-native/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ingress</title>
+      <link>https://navendu.me/tags/ingress/</link>
+      <pubDate>Fri, 16 Dec 2022 10:04:02 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/ingress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubernetes</title>
+      <link>https://navendu.me/tags/kubernetes/</link>
+      <pubDate>Fri, 16 Dec 2022 10:04:02 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>daily log</title>
       <link>https://navendu.me/tags/daily-log/</link>
-      <pubDate>Fri, 14 Jan 2022 19:21:50 +0530</pubDate>
+      <pubDate>Sun, 11 Dec 2022 16:35:32 +0530</pubDate>
       
       <guid>https://navendu.me/tags/daily-log/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>monitoring</title>
+      <link>https://navendu.me/tags/monitoring/</link>
+      <pubDate>Fri, 09 Dec 2022 10:15:51 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prometheus</title>
+      <link>https://navendu.me/tags/prometheus/</link>
+      <pubDate>Fri, 09 Dec 2022 10:15:51 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/prometheus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorials</title>
+      <link>https://navendu.me/tags/tutorials/</link>
+      <pubDate>Fri, 09 Dec 2022 10:15:51 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/tutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>communication</title>
       <link>https://navendu.me/tags/communication/</link>
-      <pubDate>Sat, 25 Dec 2021 11:15:25 +0530</pubDate>
+      <pubDate>Fri, 02 Dec 2022 10:04:40 +0530</pubDate>
       
       <guid>https://navendu.me/tags/communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://navendu.me/tags/security/</link>
+      <pubDate>Fri, 02 Dec 2022 10:04:40 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>https://navendu.me/tags/tutorial/</link>
+      <pubDate>Fri, 02 Dec 2022 10:04:40 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gaming</title>
+      <link>https://navendu.me/tags/gaming/</link>
+      <pubDate>Fri, 25 Nov 2022 10:15:48 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/gaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raspberry pi</title>
+      <link>https://navendu.me/tags/raspberry-pi/</link>
+      <pubDate>Fri, 25 Nov 2022 10:15:48 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/raspberry-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crypto</title>
+      <link>https://navendu.me/tags/crypto/</link>
+      <pubDate>Fri, 18 Nov 2022 10:04:47 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/crypto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>essays</title>
+      <link>https://navendu.me/tags/essays/</link>
+      <pubDate>Fri, 18 Nov 2022 10:04:47 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/essays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>finance</title>
+      <link>https://navendu.me/tags/finance/</link>
+      <pubDate>Fri, 18 Nov 2022 10:04:47 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>birthday goals</title>
+      <link>https://navendu.me/tags/birthday-goals/</link>
+      <pubDate>Fri, 11 Nov 2022 10:31:35 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/birthday-goals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life</title>
+      <link>https://navendu.me/tags/life/</link>
+      <pubDate>Fri, 11 Nov 2022 10:31:35 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mastodon</title>
+      <link>https://navendu.me/tags/mastodon/</link>
+      <pubDate>Wed, 02 Nov 2022 14:02:10 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/mastodon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer science</title>
+      <link>https://navendu.me/tags/computer-science/</link>
+      <pubDate>Fri, 28 Oct 2022 19:18:34 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/computer-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>education</title>
+      <link>https://navendu.me/tags/education/</link>
+      <pubDate>Fri, 28 Oct 2022 19:18:34 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>api gateway</title>
+      <link>https://navendu.me/tags/api-gateway/</link>
+      <pubDate>Fri, 14 Oct 2022 09:12:38 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/api-gateway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-source</title>
+      <link>https://navendu.me/tags/open-source/</link>
+      <pubDate>Fri, 07 Oct 2022 09:28:21 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blogs</title>
+      <link>https://navendu.me/tags/blogs/</link>
+      <pubDate>Fri, 23 Sep 2022 17:09:43 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/blogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>setup</title>
+      <link>https://navendu.me/tags/setup/</link>
+      <pubDate>Fri, 23 Sep 2022 17:09:43 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/setup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>internship</title>
+      <link>https://navendu.me/tags/internship/</link>
+      <pubDate>Fri, 02 Sep 2022 10:09:32 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/internship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux foundation</title>
+      <link>https://navendu.me/tags/linux-foundation/</link>
+      <pubDate>Fri, 02 Sep 2022 10:09:32 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/linux-foundation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://navendu.me/tags/hugo/</link>
+      <pubDate>Fri, 26 Aug 2022 09:46:16 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mermaid</title>
+      <link>https://navendu.me/tags/mermaid/</link>
+      <pubDate>Fri, 26 Aug 2022 09:46:16 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/mermaid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book reviews</title>
+      <link>https://navendu.me/tags/book-reviews/</link>
+      <pubDate>Wed, 09 Feb 2022 10:54:49 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/book-reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>money management</title>
+      <link>https://navendu.me/tags/money-management/</link>
+      <pubDate>Wed, 09 Feb 2022 10:54:49 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/money-management/</guid>
       <description></description>
     </item>
     
@@ -49,15 +310,6 @@
     </item>
     
     <item>
-      <title>open-source</title>
-      <link>https://navendu.me/tags/open-source/</link>
-      <pubDate>Thu, 02 Dec 2021 12:49:25 +0530</pubDate>
-      
-      <guid>https://navendu.me/tags/open-source/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>talks</title>
       <link>https://navendu.me/tags/talks/</link>
       <pubDate>Sun, 07 Nov 2021 12:56:25 +0530</pubDate>
@@ -67,29 +319,11 @@
     </item>
     
     <item>
-      <title>internship</title>
-      <link>https://navendu.me/tags/internship/</link>
-      <pubDate>Sat, 28 Aug 2021 17:52:25 +0530</pubDate>
-      
-      <guid>https://navendu.me/tags/internship/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>list</title>
       <link>https://navendu.me/tags/list/</link>
       <pubDate>Sat, 28 Aug 2021 17:52:25 +0530</pubDate>
       
       <guid>https://navendu.me/tags/list/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cloud-native</title>
-      <link>https://navendu.me/tags/cloud-native/</link>
-      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://navendu.me/tags/cloud-native/</guid>
       <description></description>
     </item>
     
@@ -135,15 +369,6 @@
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://navendu.me/tags/readme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tutorial</title>
-      <link>https://navendu.me/tags/tutorial/</link>
-      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://navendu.me/tags/tutorial/</guid>
       <description></description>
     </item>
     
