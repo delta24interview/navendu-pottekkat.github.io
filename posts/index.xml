@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Dec 2022 10:04:02 +0530</lastBuildDate><atom:link href="https://navendu.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Dec 2022 19:07:30 +0530</lastBuildDate><atom:link href="https://navendu.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT Explained by ChatGPT</title>
+      <link>https://navendu.me/posts/chatgpt-explains-chatgpt/</link>
+      <pubDate>Wed, 21 Dec 2022 19:07:30 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/chatgpt-explains-chatgpt/</guid>
+      <description>A conversation with ChatGPT about ChatGPT. Who are you?</description>
+    </item>
+    
     <item>
       <title>Hands-On: Extending Apache APISIX Ingress with Annotations, CRDs, and Plugins</title>
       <link>https://navendu.me/posts/extending-apisix-ingress/</link>

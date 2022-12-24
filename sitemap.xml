@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://navendu.me/posts/chatgpt-explains-chatgpt/</loc>
+    <lastmod>2022-12-21T19:35:43+05:30</lastmod>
+  </url><url>
     <loc>https://navendu.me/posts/extending-apisix-ingress/</loc>
     <lastmod>2022-12-16T10:05:28+05:30</lastmod>
   </url><url>
@@ -89,13 +92,37 @@
     <loc>https://navendu.me/posts/how-to-write-an-awesome-readme/</loc>
     <lastmod>2022-11-02T08:50:47+05:30</lastmod>
   </url><url>
+    <loc>https://navendu.me/categories/ai/</loc>
+    <lastmod>2022-12-21T19:35:43+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/ai/</loc>
+    <lastmod>2022-12-21T19:35:43+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/categories/</loc>
+    <lastmod>2022-12-21T19:35:43+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/chatgpt/</loc>
+    <lastmod>2022-12-21T19:35:43+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/categories/featured/</loc>
+    <lastmod>2022-12-21T19:35:43+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/</loc>
+    <lastmod>2022-12-21T19:35:43+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/neural-networks/</loc>
+    <lastmod>2022-12-21T19:35:43+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/posts/</loc>
+    <lastmod>2022-12-21T19:35:43+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/</loc>
+    <lastmod>2022-12-21T19:35:43+05:30</lastmod>
+  </url><url>
     <loc>https://navendu.me/tags/apache-apisix/</loc>
     <lastmod>2022-12-16T10:05:28+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/categories/api-gateway/</loc>
-    <lastmod>2022-12-16T10:05:28+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/categories/</loc>
     <lastmod>2022-12-16T10:05:28+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/cloud-native/</loc>
@@ -110,32 +137,23 @@
     <loc>https://navendu.me/tags/kubernetes/</loc>
     <lastmod>2022-12-16T10:05:28+05:30</lastmod>
   </url><url>
-    <loc>https://navendu.me/</loc>
-    <lastmod>2022-12-16T10:05:28+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/posts/</loc>
-    <lastmod>2022-12-16T10:05:28+05:30</lastmod>
-  </url><url>
     <loc>https://navendu.me/series/</loc>
     <lastmod>2022-12-16T10:05:28+05:30</lastmod>
   </url><url>
-    <loc>https://navendu.me/tags/</loc>
-    <lastmod>2022-12-16T10:05:28+05:30</lastmod>
+    <loc>https://navendu.me/daily/15-12-22-goodbye-google-analytics/</loc>
+    <lastmod>2022-12-19T22:55:06+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/daily/</loc>
+    <lastmod>2022-12-19T22:55:06+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/categories/daily-dose-of-pottekkat/</loc>
+    <lastmod>2022-12-19T22:55:06+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/daily-log/</loc>
+    <lastmod>2022-12-19T22:55:06+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/daily/11-12-22-last-week-tonight/</loc>
     <lastmod>2022-12-11T23:14:28+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/daily/</loc>
-    <lastmod>2022-12-11T23:14:28+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/categories/daily-dose-of-pottekkat/</loc>
-    <lastmod>2022-12-11T23:14:28+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/tags/daily-log/</loc>
-    <lastmod>2022-12-11T23:14:28+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/categories/featured/</loc>
-    <lastmod>2022-12-09T10:50:45+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/categories/microservices/</loc>
     <lastmod>2022-12-09T10:50:45+05:30</lastmod>
