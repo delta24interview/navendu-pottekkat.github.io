@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2022 06:40:54 +0530</lastBuildDate><atom:link href="https://navendu.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 23:32:14 +0530</lastBuildDate><atom:link href="https://navendu.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Dose of Pottekkat</title>
+      <link>https://navendu.me/categories/daily-dose-of-pottekkat/</link>
+      <pubDate>Tue, 10 Jan 2023 23:32:14 +0530</pubDate>
+      
+      <guid>https://navendu.me/categories/daily-dose-of-pottekkat/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Open Source</title>
       <link>https://navendu.me/categories/open-source/</link>
@@ -45,15 +54,6 @@
       <pubDate>Fri, 16 Dec 2022 10:04:02 +0530</pubDate>
       
       <guid>https://navendu.me/categories/api-gateway/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daily Dose of Pottekkat</title>
-      <link>https://navendu.me/categories/daily-dose-of-pottekkat/</link>
-      <pubDate>Thu, 15 Dec 2022 20:27:21 +0530</pubDate>
-      
-      <guid>https://navendu.me/categories/daily-dose-of-pottekkat/</guid>
       <description></description>
     </item>
     
