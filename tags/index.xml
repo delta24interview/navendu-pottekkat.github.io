@@ -11,7 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jan 2023 23:32:14 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jan 2023 09:45:26 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>apache apisix</title>
+      <link>https://navendu.me/tags/apache-apisix/</link>
+      <pubDate>Fri, 20 Jan 2023 09:45:26 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/apache-apisix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud-native</title>
+      <link>https://navendu.me/tags/cloud-native/</link>
+      <pubDate>Fri, 20 Jan 2023 09:45:26 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/cloud-native/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ingress</title>
+      <link>https://navendu.me/tags/ingress/</link>
+      <pubDate>Fri, 20 Jan 2023 09:45:26 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/ingress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubernetes</title>
+      <link>https://navendu.me/tags/kubernetes/</link>
+      <pubDate>Fri, 20 Jan 2023 09:45:26 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>daily log</title>
       <link>https://navendu.me/tags/daily-log/</link>
@@ -72,42 +108,6 @@
       <pubDate>Wed, 21 Dec 2022 19:07:30 +0530</pubDate>
       
       <guid>https://navendu.me/tags/neural-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>apache apisix</title>
-      <link>https://navendu.me/tags/apache-apisix/</link>
-      <pubDate>Fri, 16 Dec 2022 10:04:02 +0530</pubDate>
-      
-      <guid>https://navendu.me/tags/apache-apisix/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cloud-native</title>
-      <link>https://navendu.me/tags/cloud-native/</link>
-      <pubDate>Fri, 16 Dec 2022 10:04:02 +0530</pubDate>
-      
-      <guid>https://navendu.me/tags/cloud-native/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ingress</title>
-      <link>https://navendu.me/tags/ingress/</link>
-      <pubDate>Fri, 16 Dec 2022 10:04:02 +0530</pubDate>
-      
-      <guid>https://navendu.me/tags/ingress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>kubernetes</title>
-      <link>https://navendu.me/tags/kubernetes/</link>
-      <pubDate>Fri, 16 Dec 2022 10:04:02 +0530</pubDate>
-      
-      <guid>https://navendu.me/tags/kubernetes/</guid>
       <description></description>
     </item>
     

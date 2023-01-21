@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Dec 2022 10:04:02 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/apache-apisix/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jan 2023 09:45:26 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/apache-apisix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hands-On: Kubernetes Gateway API With APISIX Ingress</title>
+      <link>https://navendu.me/posts/kubernetes-gateway-with-apisix/</link>
+      <pubDate>Fri, 20 Jan 2023 09:45:26 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/kubernetes-gateway-with-apisix/</guid>
+      <description>A hands-on tutorial on using the new Kubernetes Gateway with Apache APISIX Ingress.</description>
+    </item>
+    
     <item>
       <title>Hands-On: Extending Apache APISIX Ingress with Annotations, CRDs, and Plugins</title>
       <link>https://navendu.me/posts/extending-apisix-ingress/</link>
