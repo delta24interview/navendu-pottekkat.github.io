@@ -11,14 +11,32 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jan 2023 09:45:26 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Mar 2023 09:22:09 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hands-On: Custom Plugins in APISIX Ingress</title>
+      <link>https://navendu.me/posts/custom-plugins-in-apisix-ingress/</link>
+      <pubDate>Fri, 24 Mar 2023 09:22:09 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/custom-plugins-in-apisix-ingress/</guid>
+      <description>A hands-on tutorial on using custom APISIX Plugins in Kubernetes environments with APISIX Ingress.</description>
+    </item>
+    
+    <item>
+      <title>Comparing Kubernetes Gateway and Ingress APIs</title>
+      <link>https://navendu.me/posts/gateway-vs-ingress-api/</link>
+      <pubDate>Fri, 14 Oct 2022 09:12:38 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/gateway-vs-ingress-api/</guid>
+      <description>Exploring the new Kubernetes Gateway API and comparing it with the existing Kubernetes Ingress API for handling external traffic.</description>
+    </item>
+    
     <item>
       <title>Hands-On: Kubernetes Gateway API With APISIX Ingress</title>
       <link>https://navendu.me/posts/kubernetes-gateway-with-apisix/</link>
       <pubDate>Fri, 20 Jan 2023 09:45:26 +0530</pubDate>
       
       <guid>https://navendu.me/posts/kubernetes-gateway-with-apisix/</guid>
-      <description>A hands-on tutorial on using the new Kubernetes Gateway with Apache APISIX Ingress.</description>
+      <description>A hands-on tutorial on using the new Kubernetes Gateway API with Apache APISIX Ingress.</description>
     </item>
     
     <item>
@@ -37,15 +55,6 @@
       
       <guid>https://navendu.me/posts/canary-in-kubernetes/</guid>
       <description>A hands-on, from-scratch tutorial on setting up canary releases in Kubernetes with Apache APISIX Ingress.</description>
-    </item>
-    
-    <item>
-      <title>Comparing Kubernetes Gateway and Ingress APIs</title>
-      <link>https://navendu.me/posts/gateway-vs-ingress-api/</link>
-      <pubDate>Fri, 14 Oct 2022 09:12:38 +0530</pubDate>
-      
-      <guid>https://navendu.me/posts/gateway-vs-ingress-api/</guid>
-      <description>Exploring the new Kubernetes Gateway API and comparing it with the existing Kubernetes Ingress API for handling external traffic.</description>
     </item>
     
     <item>

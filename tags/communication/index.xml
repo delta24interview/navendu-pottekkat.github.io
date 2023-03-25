@@ -13,12 +13,12 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Mar 2023 09:55:27 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/communication/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Signed Commits and Encrypted Communication with GPG Keys</title>
-      <link>https://navendu.me/posts/encrypted-communication-with-gpg/</link>
-      <pubDate>Fri, 02 Dec 2022 10:04:40 +0530</pubDate>
+      <title>How I Ask Questions as a Software Engineer</title>
+      <link>https://navendu.me/posts/how-i-ask-questions/</link>
+      <pubDate>Sat, 25 Dec 2021 11:15:25 +0530</pubDate>
       
-      <guid>https://navendu.me/posts/encrypted-communication-with-gpg/</guid>
-      <description>Exploring how symmetric-key and public-key cryptography works by using GPG keys to sign commits and send encrypted messages.</description>
+      <guid>https://navendu.me/posts/how-i-ask-questions/</guid>
+      <description>I ask a lot of questions to my peers and to strangers on public forums in the internet. This year, I have been trying to improve this process to ask better questions. Here is how I do it.</description>
     </item>
     
     <item>
@@ -31,12 +31,12 @@
     </item>
     
     <item>
-      <title>How I Ask Questions as a Software Engineer</title>
-      <link>https://navendu.me/posts/how-i-ask-questions/</link>
-      <pubDate>Sat, 25 Dec 2021 11:15:25 +0530</pubDate>
+      <title>Signed Commits and Encrypted Communication with GPG Keys</title>
+      <link>https://navendu.me/posts/encrypted-communication-with-gpg/</link>
+      <pubDate>Fri, 02 Dec 2022 10:04:40 +0530</pubDate>
       
-      <guid>https://navendu.me/posts/how-i-ask-questions/</guid>
-      <description>I ask a lot of questions to my peers and to strangers on public forums in the internet. This year, I have been trying to improve this process to ask better questions. Here is how I do it.</description>
+      <guid>https://navendu.me/posts/encrypted-communication-with-gpg/</guid>
+      <description>Exploring how symmetric-key and public-key cryptography works by using GPG keys to sign commits and send encrypted messages.</description>
     </item>
     
     <item>

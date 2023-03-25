@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Mar 2023 14:07:17 +0530</lastBuildDate><atom:link href="https://navendu.me/daily/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Mar 2023 18:02:59 +0530</lastBuildDate><atom:link href="https://navendu.me/daily/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>#249 Report Cards, Prompts, and Compilers - Friday, 24th March 2023</title>
+        <link>https://navendu.me/daily/24-3-23-report-cards-prompts-and-compilers/</link>
+        <pubDate>Fri, 24 Mar 2023 18:02:59 +0530</pubDate>
+        
+        <guid>https://navendu.me/daily/24-3-23-report-cards-prompts-and-compilers/</guid>
+        <description>Have you learned to write prompts yet?</description>
+      </item>
+    
       <item>
         <title>#248 To MumbaiFOSS - Friday, 10th March 2023</title>
         <link>https://navendu.me/daily/10-3-23-to-mumbaifoss/</link>
