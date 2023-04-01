@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Mar 2023 18:02:59 +0530</lastBuildDate><atom:link href="https://navendu.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Mar 2023 18:15:40 +0530</lastBuildDate><atom:link href="https://navendu.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hands-On: Custom Plugins in APISIX Ingress</title>
       <link>https://navendu.me/posts/custom-plugins-in-apisix-ingress/</link>
@@ -56,6 +56,18 @@
       <guid>https://navendu.me/posts/best-practices-for-building-reliable-apis/</guid>
       <description>As the size of your APIs increase, the need for making them reliable and robust also increases. This article discusses the best practices for designing reliable APIs by introducing you to a special kind of reverse proxies called API gateways.</description>
     </item>
+    
+    <item>
+      <title>AI-Generated Spam Pull Requests</title>
+      <link>https://navendu.me/posts/ai-generated-spam-prs/</link>
+      <pubDate>Wed, 29 Mar 2023 18:15:40 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/ai-generated-spam-prs/</guid>
+      <description>Someone tried to open pull requests to open source projects with AI-generated code.</description>
+    </item>
+    
+    
+    
     
     
     
@@ -566,6 +578,7 @@
       <guid>https://navendu.me/posts/how-to-write-an-awesome-readme/</guid>
       <description>A comprehensive guide to writing README that stands out and makes people go WOW!</description>
     </item>
+    
     
     
     

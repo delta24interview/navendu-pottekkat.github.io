@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 10:15:51 +0530</lastBuildDate><atom:link href="https://navendu.me/categories/featured/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Mar 2023 18:15:40 +0530</lastBuildDate><atom:link href="https://navendu.me/categories/featured/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comparing Kubernetes Gateway and Ingress APIs</title>
       <link>https://navendu.me/posts/gateway-vs-ingress-api/</link>
@@ -46,6 +46,15 @@
       
       <guid>https://navendu.me/posts/best-practices-for-building-reliable-apis/</guid>
       <description>As the size of your APIs increase, the need for making them reliable and robust also increases. This article discusses the best practices for designing reliable APIs by introducing you to a special kind of reverse proxies called API gateways.</description>
+    </item>
+    
+    <item>
+      <title>AI-Generated Spam Pull Requests</title>
+      <link>https://navendu.me/posts/ai-generated-spam-prs/</link>
+      <pubDate>Wed, 29 Mar 2023 18:15:40 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/ai-generated-spam-prs/</guid>
+      <description>Someone tried to open pull requests to open source projects with AI-generated code.</description>
     </item>
     
   </channel>

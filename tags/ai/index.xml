@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Dec 2022 19:07:30 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Mar 2023 18:15:40 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI-Generated Spam Pull Requests</title>
+      <link>https://navendu.me/posts/ai-generated-spam-prs/</link>
+      <pubDate>Wed, 29 Mar 2023 18:15:40 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/ai-generated-spam-prs/</guid>
+      <description>Someone tried to open pull requests to open source projects with AI-generated code.</description>
+    </item>
+    
     <item>
       <title>ChatGPT Explained by ChatGPT</title>
       <link>https://navendu.me/posts/chatgpt-explains-chatgpt/</link>
