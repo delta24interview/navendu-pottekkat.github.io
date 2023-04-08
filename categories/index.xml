@@ -11,11 +11,20 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Mar 2023 18:15:40 +0530</lastBuildDate><atom:link href="https://navendu.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Apr 2023 21:59:20 +0530</lastBuildDate><atom:link href="https://navendu.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Dose of Pottekkat</title>
+      <link>https://navendu.me/categories/daily-dose-of-pottekkat/</link>
+      <pubDate>Fri, 07 Apr 2023 21:59:20 +0530</pubDate>
+      
+      <guid>https://navendu.me/categories/daily-dose-of-pottekkat/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Featured</title>
       <link>https://navendu.me/categories/featured/</link>
-      <pubDate>Wed, 29 Mar 2023 18:15:40 +0530</pubDate>
+      <pubDate>Fri, 07 Apr 2023 09:59:04 +0530</pubDate>
       
       <guid>https://navendu.me/categories/featured/</guid>
       <description></description>
@@ -24,18 +33,9 @@
     <item>
       <title>Open Source</title>
       <link>https://navendu.me/categories/open-source/</link>
-      <pubDate>Wed, 29 Mar 2023 18:15:40 +0530</pubDate>
+      <pubDate>Fri, 07 Apr 2023 09:59:04 +0530</pubDate>
       
       <guid>https://navendu.me/categories/open-source/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daily Dose of Pottekkat</title>
-      <link>https://navendu.me/categories/daily-dose-of-pottekkat/</link>
-      <pubDate>Tue, 28 Mar 2023 22:43:31 +0530</pubDate>
-      
-      <guid>https://navendu.me/categories/daily-dose-of-pottekkat/</guid>
       <description></description>
     </item>
     
@@ -130,11 +130,11 @@
     </item>
     
     <item>
-      <title>Talks</title>
-      <link>https://navendu.me/categories/talks/</link>
-      <pubDate>Sun, 07 Nov 2021 12:56:25 +0530</pubDate>
+      <title>Service Mesh</title>
+      <link>https://navendu.me/categories/service-mesh/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://navendu.me/categories/talks/</guid>
+      <guid>https://navendu.me/categories/service-mesh/</guid>
       <description></description>
     </item>
     

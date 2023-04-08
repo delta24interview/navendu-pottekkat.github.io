@@ -11,7 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Mar 2023 22:43:31 +0530</lastBuildDate><atom:link href="https://navendu.me/categories/daily-dose-of-pottekkat/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Apr 2023 21:59:20 +0530</lastBuildDate><atom:link href="https://navendu.me/categories/daily-dose-of-pottekkat/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>#256 API Gateway and Service Mesh - Friday, 7th April 2023</title>
+        <link>https://navendu.me/daily/7-4-23-api-gateway-and-service-mesh/</link>
+        <pubDate>Fri, 07 Apr 2023 21:59:20 +0530</pubDate>
+        
+        <guid>https://navendu.me/daily/7-4-23-api-gateway-and-service-mesh/</guid>
+        <description>How do I go about writing this article?</description>
+      </item>
+    
+      <item>
+        <title>#255 Migration - Monday, 3rd April 2023</title>
+        <link>https://navendu.me/daily/3-4-23-migration/</link>
+        <pubDate>Mon, 03 Apr 2023 23:57:15 +0530</pubDate>
+        
+        <guid>https://navendu.me/daily/3-4-23-migration/</guid>
+        <description>New diagrams and a binge-worthy blog.</description>
+      </item>
+    
+      <item>
+        <title>#254 Blog Binging - Sunday, 2nd April 2023</title>
+        <link>https://navendu.me/daily/2-4-23-blog-binging/</link>
+        <pubDate>Sun, 02 Apr 2023 23:42:04 +0530</pubDate>
+        
+        <guid>https://navendu.me/daily/2-4-23-blog-binging/</guid>
+        <description>IDK if this is good or bad.</description>
+      </item>
+    
+      <item>
+        <title>#253 /stats - Saturday, 1st April 2023</title>
+        <link>https://navendu.me/daily/1-4-23-stats/</link>
+        <pubDate>Sat, 01 Apr 2023 23:43:54 +0530</pubDate>
+        
+        <guid>https://navendu.me/daily/1-4-23-stats/</guid>
+        <description>/stats is here. Check it out.</description>
+      </item>
+    
       <item>
         <title>#252 Tweets - Tuesday, 28th March 2023</title>
         <link>https://navendu.me/daily/28-3-23-tweets/</link>
@@ -2073,7 +2109,7 @@ I like busy weeks. It keeps me occupied and less distracted. I might go to the s
         <guid>https://navendu.me/daily/25-1-22-silicon-valley-gets-software-engineers/</guid>
         <description>My vocabulary of five letter words is improving—thanks to Wordle.
  I have to get better at thispowerlanguage.co.uk/wordle
-  I was reading through Gergely Orosz&amp;rsquo;s article on &amp;ldquo;What Silicon Valley &amp;#39; Gets &amp;#39; about Software Engineers that Traditional Companies Do Not &amp;rdquo; and I couldn&amp;rsquo;t help but compare it to the Indian tech industry.
+  I was reading through Gergely Orosz&amp;rsquo;s article on &amp;ldquo;What Silicon Valley &amp;#39; Gets &amp;#39; about Software Engineers that Traditional Companies Do Not&amp;rdquo; and I couldn&amp;rsquo;t help but compare it to the Indian tech industry.
 I have only worked at startups and whatever I know of the big Indian tech companies are from my friends and old classmates.</description>
       </item>
     
@@ -2093,7 +2129,7 @@ I have only worked at startups and whatever I know of the big Indian tech compan
         
         <guid>https://navendu.me/daily/23-1-22-personal-monopolies/</guid>
         <description>I want to be the only person that does what I do.
-As Dave Perell mentions in &amp;ldquo;Build a Personal Monopoly &amp;rdquo; a personal monopoly is a unique intersection of skills, interests, and personality traits.
+As Dave Perell mentions in &amp;ldquo;Build a Personal Monopoly&amp;rdquo; a personal monopoly is a unique intersection of skills, interests, and personality traits.
 This year, I&amp;rsquo;m going to explore and redefine what my monopoly is and work towards building it through my blog and social media.</description>
       </item>
     
@@ -2103,8 +2139,8 @@ This year, I&amp;rsquo;m going to explore and redefine what my monopoly is and w
         <pubDate>Sat, 22 Jan 2022 19:05:08 +0530</pubDate>
         
         <guid>https://navendu.me/daily/22-1-22-what-i-talk-about-when-i-talk-about-haruki-murakami/</guid>
-        <description>I finished reading &amp;ldquo;The Defining Decade &amp;rdquo; by Meg Jay.
-While deciding what to read next from my list of &amp;ldquo;Want to Read &amp;rdquo; books (it has 89 books now and it is not getting smaller), a random conversation with a friend led me to Haruki Murakami .
+        <description>I finished reading &amp;ldquo;The Defining Decade&amp;rdquo; by Meg Jay.
+While deciding what to read next from my list of &amp;ldquo;Want to Read&amp;rdquo; books (it has 89 books now and it is not getting smaller), a random conversation with a friend led me to Haruki Murakami.
 I have read Murakami&amp;rsquo;s works during the initial lockdown days.
 I got interested in his writing through a collection of his short stories titled &amp;ldquo;The Elephant Vanishes&amp;rdquo;.</description>
       </item>
@@ -2172,7 +2208,7 @@ Most of what I read are from indie blogs I found through Twitter, Reddit, Hacker
         <guid>https://navendu.me/daily/16-1-22-service-mesh-performance-and-asking-questions/</guid>
         <description>I have two upcoming talks in the next two weeks.
 My firsts in 2022. And I hope to speak more at conferences this year.
-The first is at DevConf.cz 2022 on the 29th this month and the second is at FOSDEM 2022 on the 5th of February .
+The first is at DevConf.cz 2022 on the 29th this month and the second is at FOSDEM 2022 on the 5th of February.
 Measuring Service Mesh Performance 101 This is my talk at DevConf.cz that dives into how the performance of a workload running on top of a service mesh can be benchmarked.</description>
       </item>
     
@@ -2182,9 +2218,9 @@ Measuring Service Mesh Performance 101 This is my talk at DevConf.cz that dives 
         <pubDate>Sat, 15 Jan 2022 15:43:20 +0530</pubDate>
         
         <guid>https://navendu.me/daily/15-1-22-the-psychology-of-money/</guid>
-        <description>I finished reading &amp;ldquo;The Psychology of Money &amp;rdquo; by Morgan Housel today.
+        <description>I finished reading &amp;ldquo;The Psychology of Money&amp;rdquo; by Morgan Housel today.
 It was a real page turner and I finished it in two sittings.
-I am just starting another book on my Kindle, &amp;ldquo;The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now &amp;rdquo; by Meg Jay .
+I am just starting another book on my Kindle, &amp;ldquo;The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now&amp;rdquo; by Meg Jay.
 It has been a while since I read ebooks and this should be a nice change of setting.</description>
       </item>
     

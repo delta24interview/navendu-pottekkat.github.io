@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Mar 2023 18:15:40 +0530</lastBuildDate><atom:link href="https://navendu.me/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Apr 2023 09:59:04 +0530</lastBuildDate><atom:link href="https://navendu.me/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vada (Fritters) Profitable</title>
+      <link>https://navendu.me/posts/vada-profitable/</link>
+      <pubDate>Fri, 07 Apr 2023 09:59:04 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/vada-profitable/</guid>
+      <description>This article is about a project I built and open sourced three years ago and our journey to make it uzhunnu vada (UV) profitable™.</description>
+    </item>
+    
     <item>
       <title>AI-Generated Spam Pull Requests</title>
       <link>https://navendu.me/posts/ai-generated-spam-prs/</link>
@@ -40,7 +49,7 @@
     </item>
     
     <item>
-      <title>How the LFX Mentorship Program Helped Me Level-Up My Career</title>
+      <title>How the LFX Mentorship Program Helped Me Level Up My Career</title>
       <link>https://navendu.me/posts/how-the-lfx-mentorship-program-helped-me-level-up-my-career/</link>
       <pubDate>Fri, 02 Sep 2022 10:09:32 +0530</pubDate>
       
@@ -58,7 +67,7 @@
     </item>
     
     <item>
-      <title>Contributing to Documentation in Open-Source</title>
+      <title>Contributing to Documentation</title>
       <link>https://navendu.me/posts/contributing-to-documentation/</link>
       <pubDate>Mon, 08 Nov 2021 12:56:25 +0530</pubDate>
       
@@ -76,7 +85,7 @@
     </item>
     
     <item>
-      <title>Pull Requests Like a PRO</title>
+      <title>Pull Requests like a Pro</title>
       <link>https://navendu.me/posts/pull-requests-like-a-pro/</link>
       <pubDate>Wed, 15 Sep 2021 17:52:25 +0530</pubDate>
       
@@ -85,12 +94,12 @@
     </item>
     
     <item>
-      <title>20&#43; Open Source Internship Programs You Can Apply To (Updated for 2023)</title>
+      <title>20&#43; Open Source Internship Programs (Updated for 2023)</title>
       <link>https://navendu.me/posts/open-source-internship-programs/</link>
       <pubDate>Sat, 28 Aug 2021 17:52:25 +0530</pubDate>
       
       <guid>https://navendu.me/posts/open-source-internship-programs/</guid>
-      <description>A curated list of open source internship programs with all the necessary details.</description>
+      <description>A curated list of open source internship/mentorship programs with all the necessary details.</description>
     </item>
     
   </channel>

@@ -2,61 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://navendu.me/posts/custom-plugins-in-apisix-ingress/</loc>
-    <lastmod>2023-03-24T09:59:40+05:30</lastmod>
+    <loc>https://navendu.me/posts/vada-profitable/</loc>
+    <lastmod>2023-04-05T11:31:04+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/gateway-vs-ingress-api/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-04T11:41:16+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/how-i-ask-questions/</loc>
     <lastmod>2023-03-23T13:45:08+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/introduction-to-monitoring-microservices/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-04T00:38:47+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/best-practices-for-building-reliable-apis/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-04T15:16:03+05:30</lastmod>
   </url><url>
-    <loc>https://navendu.me/tags/ai/</loc>
-    <lastmod>2023-03-29T21:56:15+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/posts/ai-generated-spam-prs/</loc>
-    <lastmod>2023-03-29T21:56:15+05:30</lastmod>
+    <loc>https://navendu.me/daily/7-4-23-api-gateway-and-service-mesh/</loc>
+    <lastmod>2023-04-07T22:13:03+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/categories/</loc>
-    <lastmod>2023-03-29T21:56:15+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/categories/featured/</loc>
-    <lastmod>2023-03-29T21:56:15+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/</loc>
-    <lastmod>2023-03-29T21:56:15+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/categories/open-source/</loc>
-    <lastmod>2023-03-29T21:56:15+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/tags/open-source/</loc>
-    <lastmod>2023-03-29T21:56:15+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/posts/</loc>
-    <lastmod>2023-03-29T21:56:15+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/tags/spam/</loc>
-    <lastmod>2023-03-29T21:56:15+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/tags/</loc>
-    <lastmod>2023-03-29T21:56:15+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/daily/28-3-23-tweets/</loc>
-    <lastmod>2023-03-28T22:51:59+05:30</lastmod>
+    <lastmod>2023-04-07T22:13:03+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/daily/</loc>
-    <lastmod>2023-03-28T22:51:59+05:30</lastmod>
+    <lastmod>2023-04-07T22:13:03+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/categories/daily-dose-of-pottekkat/</loc>
-    <lastmod>2023-03-28T22:51:59+05:30</lastmod>
+    <lastmod>2023-04-07T22:13:03+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/daily-log/</loc>
+    <lastmod>2023-04-07T22:13:03+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/</loc>
+    <lastmod>2023-04-07T22:13:03+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/</loc>
+    <lastmod>2023-04-07T22:13:03+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/categories/featured/</loc>
+    <lastmod>2023-04-05T11:31:04+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/finance/</loc>
+    <lastmod>2023-04-05T11:31:04+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/nsfw-filter/</loc>
+    <lastmod>2023-04-05T11:31:04+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/categories/open-source/</loc>
+    <lastmod>2023-04-05T11:31:04+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/open-source/</loc>
+    <lastmod>2023-04-05T11:31:04+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/posts/</loc>
+    <lastmod>2023-04-05T11:31:04+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/daily/3-4-23-migration/</loc>
+    <lastmod>2023-04-04T00:09:43+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/daily/2-4-23-blog-binging/</loc>
+    <lastmod>2023-04-03T00:00:49+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/daily/1-4-23-stats/</loc>
+    <lastmod>2023-04-02T00:51:32+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/ai/</loc>
+    <lastmod>2023-04-02T18:48:15+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/posts/ai-generated-spam-prs/</loc>
+    <lastmod>2023-04-02T18:48:15+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/spam/</loc>
+    <lastmod>2023-04-02T18:48:15+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/daily/28-3-23-tweets/</loc>
     <lastmod>2023-03-28T22:51:59+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/daily/27-3-23-charts/</loc>
@@ -69,25 +87,28 @@
     <lastmod>2023-03-24T22:06:03+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/apache-apisix/</loc>
-    <lastmod>2023-03-24T09:59:40+05:30</lastmod>
+    <lastmod>2023-04-04T15:16:03+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/categories/api-gateway/</loc>
-    <lastmod>2023-03-24T09:59:40+05:30</lastmod>
+    <lastmod>2023-04-04T15:16:03+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/cloud-native/</loc>
-    <lastmod>2023-03-24T09:59:40+05:30</lastmod>
+    <lastmod>2023-04-04T19:18:55+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/posts/custom-plugins-in-apisix-ingress/</loc>
+    <lastmod>2023-04-03T15:28:39+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/series/hands-on-with-apache-apisix-ingress/</loc>
-    <lastmod>2023-03-24T09:59:40+05:30</lastmod>
+    <lastmod>2023-04-03T15:28:39+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/ingress/</loc>
-    <lastmod>2023-03-24T09:59:40+05:30</lastmod>
+    <lastmod>2023-04-04T11:41:16+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/kubernetes/</loc>
-    <lastmod>2023-03-24T09:59:40+05:30</lastmod>
+    <lastmod>2023-04-04T11:41:16+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/series/</loc>
-    <lastmod>2023-03-24T09:59:40+05:30</lastmod>
+    <lastmod>2023-04-03T15:28:39+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/daily/10-3-23-to-mumbaifoss/</loc>
     <lastmod>2023-03-10T21:36:36+05:30</lastmod>
@@ -96,7 +117,7 @@
     <lastmod>2023-03-23T13:45:08+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/tips/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-04T19:19:16+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/write-stuff-down/</loc>
     <lastmod>2023-03-23T13:45:08+05:30</lastmod>
@@ -144,7 +165,7 @@
     <lastmod>2023-01-26T15:58:44+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/kubernetes-gateway-with-apisix/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-03T15:28:39+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/daily/10-1-23-whats-the-best-beer/</loc>
     <lastmod>2023-01-26T15:58:44+05:30</lastmod>
@@ -174,7 +195,7 @@
     <lastmod>2023-03-23T13:45:08+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/extending-apisix-ingress/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-03T15:28:39+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/daily/15-12-22-goodbye-google-analytics/</loc>
     <lastmod>2022-12-19T22:55:06+05:30</lastmod>
@@ -183,16 +204,16 @@
     <lastmod>2022-12-11T23:14:28+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/categories/microservices/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-04T00:38:47+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/monitoring/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-04T00:38:47+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/prometheus/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-04T00:38:47+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/tutorials/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-04T18:01:42+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/daily/4-12-22-benki-benki-boom-boom/</loc>
     <lastmod>2022-12-07T13:21:59+05:30</lastmod>
@@ -207,7 +228,7 @@
     <lastmod>2023-03-23T13:45:08+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/categories/tutorials/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-04T18:01:42+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/daily/27-11-22-a-day-of-fast-bowling/</loc>
     <lastmod>2022-11-28T10:57:29+05:30</lastmod>
@@ -234,9 +255,6 @@
     <lastmod>2023-03-23T13:45:08+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/essays/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/tags/finance/</loc>
     <lastmod>2023-03-23T13:45:08+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/upi-vs-crypto/</loc>
@@ -303,7 +321,7 @@
     <lastmod>2022-10-26T14:20:11+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/canary-in-kubernetes/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-03T15:28:39+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/daily/19-10-22-the-to-be-read-pile/</loc>
     <lastmod>2022-10-19T21:49:50+05:30</lastmod>
@@ -312,10 +330,10 @@
     <lastmod>2022-10-18T09:34:12+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/api-gateway/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-04T15:16:03+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/categories/kubernetes/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-04T11:41:16+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/daily/12-10-22-new-drafts/</loc>
     <lastmod>2022-10-12T22:37:06+05:30</lastmod>
@@ -357,7 +375,7 @@
     <lastmod>2022-09-09T22:21:20+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/hands-on-set-up-ingress-on-kubernetes-with-apache-apisix-ingress-controller/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-03T15:28:39+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/daily/8-9-22-onam/</loc>
     <lastmod>2022-09-08T21:37:37+05:30</lastmod>
@@ -378,13 +396,13 @@
     <lastmod>2022-09-03T11:03:31+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/how-the-lfx-mentorship-program-helped-me-level-up-my-career/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-04T22:16:57+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/internship/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-04T22:16:57+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/linux-foundation/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-04T22:16:57+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/daily/1-9-22-conference-season/</loc>
     <lastmod>2022-09-01T22:11:34+05:30</lastmod>
@@ -888,16 +906,16 @@
     <lastmod>2022-02-10T10:12:06+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/categories/book-review/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-04T22:19:28+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/book-reviews/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/posts/the-psychology-of-money/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-04T22:19:28+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/money-management/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-04T22:19:28+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/posts/the-psychology-of-money/</loc>
+    <lastmod>2023-04-04T22:19:28+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/daily/8-2-22-malayalees-and-their-lulu-malls/</loc>
     <lastmod>2022-02-08T23:05:46+05:30</lastmod>
@@ -1017,55 +1035,46 @@
     <lastmod>2023-03-23T13:45:08+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/everything-about-gsoc/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-02T18:23:13+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/contributing-to-documentation/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/categories/talks/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/tags/talks/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/posts/webinar-non-code-contributions-to-open-source/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/posts/building-your-career-in-open-source/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/posts/non-code-contributions-to-open-source/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/posts/pull-requests-like-a-pro/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/posts/open-source-internship-programs/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/tags/list/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/tags/cncf/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/posts/cncf-webinar-meshery/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/tags/service-mesh/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/tags/webinar/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-04T22:20:17+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/documentation/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-04T22:20:17+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/posts/non-code-contributions-to-open-source/</loc>
+    <lastmod>2023-04-02T18:23:13+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/posts/pull-requests-like-a-pro/</loc>
+    <lastmod>2023-04-04T19:19:16+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/posts/open-source-internship-programs/</loc>
+    <lastmod>2023-04-04T19:18:55+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/list/</loc>
+    <lastmod>2023-04-04T19:18:55+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/cncf/</loc>
+    <lastmod>2023-04-04T19:18:55+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/meshery/</loc>
+    <lastmod>2023-04-04T19:18:55+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/posts/cncf-webinar-meshery/</loc>
+    <lastmod>2023-04-04T19:18:55+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/categories/service-mesh/</loc>
+    <lastmod>2023-04-04T19:18:55+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/service-mesh/</loc>
+    <lastmod>2023-04-04T19:18:55+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/how-to-write-an-awesome-readme/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-04T18:01:42+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/readme/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-04-04T18:01:42+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/about/</loc>
     <lastmod>2023-03-31T16:45:21+05:30</lastmod>
@@ -1077,13 +1086,13 @@
     <lastmod>2022-10-19T17:24:41+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/now/</loc>
-    <lastmod>2023-03-10T08:22:38+05:30</lastmod>
+    <lastmod>2023-04-05T19:45:40+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/stats/</loc>
-    <lastmod>2023-03-31T00:26:39+05:30</lastmod>
+    <lastmod>2023-04-01T17:09:13+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/subscribe/</loc>
-    <lastmod>2022-08-26T09:55:32+05:30</lastmod>
+    <lastmod>2023-04-05T14:06:57+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/categories/writing/blogging/</loc>
   </url>
