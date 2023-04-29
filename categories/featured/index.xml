@@ -11,16 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Apr 2023 09:59:04 +0530</lastBuildDate><atom:link href="https://navendu.me/categories/featured/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Vada (Fritters) Profitable</title>
-      <link>https://navendu.me/posts/vada-profitable/</link>
-      <pubDate>Fri, 07 Apr 2023 09:59:04 +0530</pubDate>
-      
-      <guid>https://navendu.me/posts/vada-profitable/</guid>
-      <description>This article is about a project I built and open sourced three years ago and our journey to make it uzhunnu vada (UV) profitable™.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 09 Dec 2022 10:15:51 +0530</lastBuildDate><atom:link href="https://navendu.me/categories/featured/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comparing Kubernetes Gateway and Ingress APIs</title>
       <link>https://navendu.me/posts/gateway-vs-ingress-api/</link>
