@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Mar 2023 18:15:40 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 May 2023 11:40:35 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI and APIs</title>
+      <link>https://navendu.me/posts/ai-and-apis/</link>
+      <pubDate>Sun, 21 May 2023 11:40:35 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/ai-and-apis/</guid>
+      <description>What do the recent advancements in generative AI mean for APIs?</description>
+    </item>
+    
     <item>
       <title>AI-Generated Spam Pull Requests</title>
       <link>https://navendu.me/posts/ai-generated-spam-prs/</link>

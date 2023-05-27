@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://navendu.me/posts/gateway-and-mesh/</loc>
-    <lastmod>2023-05-05T09:19:07+05:30</lastmod>
+    <loc>https://navendu.me/posts/ai-and-apis/</loc>
+    <lastmod>2023-05-21T11:48:21+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/gateway-vs-ingress-api/</loc>
     <lastmod>2023-04-04T11:41:16+05:30</lastmod>
@@ -17,29 +17,44 @@
     <loc>https://navendu.me/posts/best-practices-for-building-reliable-apis/</loc>
     <lastmod>2023-04-04T15:16:03+05:30</lastmod>
   </url><url>
-    <loc>https://navendu.me/categories/api-gateway/</loc>
-    <lastmod>2023-05-05T09:19:07+05:30</lastmod>
+    <loc>https://navendu.me/categories/ai/</loc>
+    <lastmod>2023-05-21T11:48:21+05:30</lastmod>
   </url><url>
-    <loc>https://navendu.me/tags/api-gateway/</loc>
-    <lastmod>2023-05-05T09:19:07+05:30</lastmod>
+    <loc>https://navendu.me/tags/ai/</loc>
+    <lastmod>2023-05-21T11:48:21+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/api/</loc>
+    <lastmod>2023-05-21T11:48:21+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/categories/</loc>
-    <lastmod>2023-05-05T15:57:28+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/tags/kubernetes/</loc>
-    <lastmod>2023-05-05T09:19:07+05:30</lastmod>
+    <lastmod>2023-05-26T14:56:29+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/</loc>
-    <lastmod>2023-05-05T15:57:28+05:30</lastmod>
+    <lastmod>2023-05-26T14:56:29+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/</loc>
-    <lastmod>2023-05-05T09:19:07+05:30</lastmod>
+    <lastmod>2023-05-26T14:56:29+05:30</lastmod>
   </url><url>
-    <loc>https://navendu.me/tags/service-mesh/</loc>
-    <lastmod>2023-05-05T09:19:07+05:30</lastmod>
+    <loc>https://navendu.me/tags/prediction/</loc>
+    <lastmod>2023-05-21T11:48:21+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/</loc>
-    <lastmod>2023-05-05T15:57:28+05:30</lastmod>
+    <lastmod>2023-05-26T14:56:29+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/posts/gateway-and-mesh/</loc>
+    <lastmod>2023-05-21T11:48:21+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/categories/api-gateway/</loc>
+    <lastmod>2023-05-21T11:48:21+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/api-gateway/</loc>
+    <lastmod>2023-05-21T11:48:21+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/kubernetes/</loc>
+    <lastmod>2023-05-21T11:48:21+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/service-mesh/</loc>
+    <lastmod>2023-05-21T11:48:21+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/daily/2-5-23-tattoos-on-my-internet/</loc>
     <lastmod>2023-05-05T15:57:28+05:30</lastmod>
@@ -78,7 +93,7 @@
     <lastmod>2023-04-07T22:13:03+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/finance/</loc>
-    <lastmod>2023-04-25T18:51:13+05:30</lastmod>
+    <lastmod>2023-05-26T14:56:29+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/nsfw-filter/</loc>
     <lastmod>2023-04-25T18:51:13+05:30</lastmod>
@@ -100,9 +115,6 @@
   </url><url>
     <loc>https://navendu.me/daily/1-4-23-stats/</loc>
     <lastmod>2023-04-02T00:51:32+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/tags/ai/</loc>
-    <lastmod>2023-04-02T18:48:15+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/ai-generated-spam-prs/</loc>
     <lastmod>2023-04-02T18:48:15+05:30</lastmod>
@@ -212,9 +224,6 @@
     <loc>https://navendu.me/posts/open-source-communities/</loc>
     <lastmod>2023-03-23T13:45:08+05:30</lastmod>
   </url><url>
-    <loc>https://navendu.me/categories/ai/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
-  </url><url>
     <loc>https://navendu.me/tags/chatgpt/</loc>
     <lastmod>2023-03-23T13:45:08+05:30</lastmod>
   </url><url>
@@ -282,16 +291,16 @@
     <lastmod>2022-11-23T20:01:37+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/crypto/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-05-26T14:56:29+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/categories/essays/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-05-26T14:56:29+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/essays/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-05-26T14:56:29+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/upi-vs-crypto/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-05-26T14:56:29+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/daily/17-11-22-el-come-manzanas/</loc>
     <lastmod>2022-11-19T21:36:36+05:30</lastmod>
