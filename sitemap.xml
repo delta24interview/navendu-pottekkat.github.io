@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://navendu.me/posts/ai-traffic-cameras/</loc>
-    <lastmod>2023-05-30T00:18:42+05:30</lastmod>
-  </url><url>
     <loc>https://navendu.me/posts/gateway-vs-ingress-api/</loc>
     <lastmod>2023-04-04T11:41:16+05:30</lastmod>
   </url><url>
@@ -17,29 +14,53 @@
     <loc>https://navendu.me/posts/best-practices-for-building-reliable-apis/</loc>
     <lastmod>2023-04-04T15:16:03+05:30</lastmod>
   </url><url>
-    <loc>https://navendu.me/tags/ai/</loc>
-    <lastmod>2023-05-30T00:18:42+05:30</lastmod>
-  </url><url>
     <loc>https://navendu.me/categories/</loc>
-    <lastmod>2023-05-31T11:44:21+05:30</lastmod>
+    <lastmod>2023-06-05T18:34:29+05:30</lastmod>
   </url><url>
-    <loc>https://navendu.me/tags/kerala/</loc>
-    <lastmod>2023-05-30T00:18:42+05:30</lastmod>
+    <loc>https://navendu.me/tags/data/</loc>
+    <lastmod>2023-06-05T18:34:29+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/</loc>
-    <lastmod>2023-05-31T11:44:21+05:30</lastmod>
+    <lastmod>2023-06-05T18:34:29+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/notes/</loc>
+    <lastmod>2023-06-05T18:34:29+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/posts/dpdpb/</loc>
+    <lastmod>2023-06-05T18:34:29+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/</loc>
-    <lastmod>2023-05-31T11:44:21+05:30</lastmod>
+    <lastmod>2023-06-05T18:34:29+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/categories/public-policy/</loc>
-    <lastmod>2023-05-30T00:18:42+05:30</lastmod>
+    <lastmod>2023-06-05T18:34:29+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/public-policy/</loc>
-    <lastmod>2023-05-30T00:18:42+05:30</lastmod>
+    <lastmod>2023-06-05T18:34:29+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/</loc>
-    <lastmod>2023-05-31T11:44:21+05:30</lastmod>
+    <lastmod>2023-06-05T18:34:29+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/daily/4-6-23-obsession-overload/</loc>
+    <lastmod>2023-06-04T23:19:03+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/daily/</loc>
+    <lastmod>2023-06-04T23:19:03+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/categories/daily-dose-of-pottekkat/</loc>
+    <lastmod>2023-06-04T23:19:03+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/daily-log/</loc>
+    <lastmod>2023-06-04T23:19:03+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/ai/</loc>
+    <lastmod>2023-06-05T18:34:29+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/posts/ai-traffic-cameras/</loc>
+    <lastmod>2023-06-05T18:34:29+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/kerala/</loc>
+    <lastmod>2023-06-05T18:34:29+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/categories/ai/</loc>
     <lastmod>2023-05-30T00:18:42+05:30</lastmod>
@@ -69,15 +90,6 @@
     <lastmod>2023-05-31T11:44:21+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/daily/2-5-23-tattoos-on-my-internet/</loc>
-    <lastmod>2023-05-05T15:57:28+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/daily/</loc>
-    <lastmod>2023-05-05T15:57:28+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/categories/daily-dose-of-pottekkat/</loc>
-    <lastmod>2023-05-05T15:57:28+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/tags/daily-log/</loc>
     <lastmod>2023-05-05T15:57:28+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/daily/17-4-23-hello-from-another-airport/</loc>
@@ -228,9 +240,6 @@
     <lastmod>2023-01-09T12:03:56+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/community/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/tags/notes/</loc>
     <lastmod>2023-03-23T13:45:08+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/open-source-communities/</loc>
