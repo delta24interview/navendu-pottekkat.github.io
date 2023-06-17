@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 May 2023 09:15:19 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/service-mesh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jun 2023 09:24:01 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/service-mesh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>APISIX Service Mesh</title>
+      <link>https://navendu.me/posts/amesh/</link>
+      <pubDate>Fri, 16 Jun 2023 09:24:01 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/amesh/</guid>
+      <description>Apache APISIX is generally used to manage north-south traffic in Kubernetes and often sits at the edge of a cluster. With Amesh, APISIX is now a service mesh.</description>
+    </item>
+    
     <item>
       <title>A Comprehensive Guide to API Gateways, Kubernetes Gateways, and Service Meshes</title>
       <link>https://navendu.me/posts/gateway-and-mesh/</link>

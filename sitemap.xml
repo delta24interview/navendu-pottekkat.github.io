@@ -14,13 +14,49 @@
     <loc>https://navendu.me/posts/best-practices-for-building-reliable-apis/</loc>
     <lastmod>2023-04-04T15:16:03+05:30</lastmod>
   </url><url>
-    <loc>https://navendu.me/categories/</loc>
-    <lastmod>2023-06-05T18:34:29+05:30</lastmod>
+    <loc>https://navendu.me/tags/amesh/</loc>
+    <lastmod>2023-06-16T13:59:59+05:30</lastmod>
   </url><url>
-    <loc>https://navendu.me/tags/data/</loc>
-    <lastmod>2023-06-05T18:34:29+05:30</lastmod>
+    <loc>https://navendu.me/tags/apache-apisix/</loc>
+    <lastmod>2023-06-16T13:59:59+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/posts/amesh/</loc>
+    <lastmod>2023-06-16T13:59:59+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/categories/</loc>
+    <lastmod>2023-06-16T13:59:59+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/istio/</loc>
+    <lastmod>2023-06-16T13:59:59+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/</loc>
+    <lastmod>2023-06-16T13:59:59+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/posts/</loc>
+    <lastmod>2023-06-16T13:59:59+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/categories/service-mesh/</loc>
+    <lastmod>2023-06-16T13:59:59+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/service-mesh/</loc>
+    <lastmod>2023-06-16T13:59:59+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/</loc>
+    <lastmod>2023-06-16T13:59:59+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/categories/api-gateway/</loc>
+    <lastmod>2023-06-12T10:20:25+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/api-gateway/</loc>
+    <lastmod>2023-06-12T10:20:25+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/posts/apisix-go-brr/</loc>
+    <lastmod>2023-06-12T10:20:25+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/performance/</loc>
+    <lastmod>2023-06-12T10:20:25+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/data/</loc>
     <lastmod>2023-06-05T18:34:29+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/notes/</loc>
@@ -29,16 +65,10 @@
     <loc>https://navendu.me/posts/dpdpb/</loc>
     <lastmod>2023-06-05T18:34:29+05:30</lastmod>
   </url><url>
-    <loc>https://navendu.me/posts/</loc>
-    <lastmod>2023-06-05T18:34:29+05:30</lastmod>
-  </url><url>
     <loc>https://navendu.me/categories/public-policy/</loc>
     <lastmod>2023-06-05T18:34:29+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/public-policy/</loc>
-    <lastmod>2023-06-05T18:34:29+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/tags/</loc>
     <lastmod>2023-06-05T18:34:29+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/daily/4-6-23-obsession-overload/</loc>
@@ -77,16 +107,7 @@
     <loc>https://navendu.me/posts/gateway-and-mesh/</loc>
     <lastmod>2023-05-31T11:44:21+05:30</lastmod>
   </url><url>
-    <loc>https://navendu.me/categories/api-gateway/</loc>
-    <lastmod>2023-05-31T11:44:21+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/tags/api-gateway/</loc>
-    <lastmod>2023-05-31T11:44:21+05:30</lastmod>
-  </url><url>
     <loc>https://navendu.me/tags/kubernetes/</loc>
-    <lastmod>2023-05-31T11:44:21+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/tags/service-mesh/</loc>
     <lastmod>2023-05-31T11:44:21+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/daily/2-5-23-tattoos-on-my-internet/</loc>
@@ -157,9 +178,6 @@
   </url><url>
     <loc>https://navendu.me/daily/24-3-23-report-cards-prompts-and-compilers/</loc>
     <lastmod>2023-03-24T22:06:03+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/tags/apache-apisix/</loc>
-    <lastmod>2023-04-04T15:16:03+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/cloud-native/</loc>
     <lastmod>2023-04-04T19:18:55+05:30</lastmod>
@@ -1122,9 +1140,6 @@
     <lastmod>2023-04-04T19:18:55+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/cncf-webinar-meshery/</loc>
-    <lastmod>2023-04-04T19:18:55+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/categories/service-mesh/</loc>
     <lastmod>2023-04-04T19:18:55+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/how-to-write-an-awesome-readme/</loc>

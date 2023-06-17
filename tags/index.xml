@@ -11,7 +11,61 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jun 2023 18:05:11 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jun 2023 09:24:01 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>amesh</title>
+      <link>https://navendu.me/tags/amesh/</link>
+      <pubDate>Fri, 16 Jun 2023 09:24:01 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/amesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apache apisix</title>
+      <link>https://navendu.me/tags/apache-apisix/</link>
+      <pubDate>Fri, 16 Jun 2023 09:24:01 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/apache-apisix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>istio</title>
+      <link>https://navendu.me/tags/istio/</link>
+      <pubDate>Fri, 16 Jun 2023 09:24:01 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/istio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>service-mesh</title>
+      <link>https://navendu.me/tags/service-mesh/</link>
+      <pubDate>Fri, 16 Jun 2023 09:24:01 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/service-mesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>api gateway</title>
+      <link>https://navendu.me/tags/api-gateway/</link>
+      <pubDate>Mon, 12 Jun 2023 09:33:59 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/api-gateway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>performance</title>
+      <link>https://navendu.me/tags/performance/</link>
+      <pubDate>Mon, 12 Jun 2023 09:33:59 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/performance/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>data</title>
       <link>https://navendu.me/tags/data/</link>
@@ -85,29 +139,11 @@
     </item>
     
     <item>
-      <title>api gateway</title>
-      <link>https://navendu.me/tags/api-gateway/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
-      
-      <guid>https://navendu.me/tags/api-gateway/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>kubernetes</title>
       <link>https://navendu.me/tags/kubernetes/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
       <guid>https://navendu.me/tags/kubernetes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>service-mesh</title>
-      <link>https://navendu.me/tags/service-mesh/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
-      
-      <guid>https://navendu.me/tags/service-mesh/</guid>
       <description></description>
     </item>
     
@@ -144,15 +180,6 @@
       <pubDate>Wed, 29 Mar 2023 18:15:40 +0530</pubDate>
       
       <guid>https://navendu.me/tags/spam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>apache apisix</title>
-      <link>https://navendu.me/tags/apache-apisix/</link>
-      <pubDate>Fri, 24 Mar 2023 09:22:09 +0530</pubDate>
-      
-      <guid>https://navendu.me/tags/apache-apisix/</guid>
       <description></description>
     </item>
     
