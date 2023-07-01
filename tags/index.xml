@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Jun 2023 17:31:01 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jun 2023 10:05:57 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>apache apisix</title>
+      <link>https://navendu.me/tags/apache-apisix/</link>
+      <pubDate>Fri, 30 Jun 2023 10:05:57 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/apache-apisix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iot</title>
+      <link>https://navendu.me/tags/iot/</link>
+      <pubDate>Fri, 30 Jun 2023 10:05:57 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mqtt</title>
+      <link>https://navendu.me/tags/mqtt/</link>
+      <pubDate>Fri, 30 Jun 2023 10:05:57 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/mqtt/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ai</title>
       <link>https://navendu.me/tags/ai/</link>
@@ -54,15 +81,6 @@
       <pubDate>Fri, 16 Jun 2023 09:24:01 +0530</pubDate>
       
       <guid>https://navendu.me/tags/amesh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>apache apisix</title>
-      <link>https://navendu.me/tags/apache-apisix/</link>
-      <pubDate>Fri, 16 Jun 2023 09:24:01 +0530</pubDate>
-      
-      <guid>https://navendu.me/tags/apache-apisix/</guid>
       <description></description>
     </item>
     
