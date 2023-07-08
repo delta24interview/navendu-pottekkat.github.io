@@ -14,11 +14,35 @@
     <loc>https://navendu.me/posts/best-practices-for-building-reliable-apis/</loc>
     <lastmod>2023-04-04T15:16:03+05:30</lastmod>
   </url><url>
+    <loc>https://navendu.me/posts/tiny-apisix-plugin/</loc>
+    <lastmod>2023-07-07T11:11:14+08:00</lastmod>
+  </url><url>
     <loc>https://navendu.me/tags/apache-apisix/</loc>
-    <lastmod>2023-06-30T10:08:54+05:30</lastmod>
+    <lastmod>2023-07-07T11:11:14+08:00</lastmod>
+  </url><url>
+    <loc>https://navendu.me/categories/api-gateway/</loc>
+    <lastmod>2023-07-07T11:11:14+08:00</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/api-gateway/</loc>
+    <lastmod>2023-07-07T11:11:14+08:00</lastmod>
   </url><url>
     <loc>https://navendu.me/categories/</loc>
-    <lastmod>2023-06-30T10:08:54+05:30</lastmod>
+    <lastmod>2023-07-07T11:11:14+08:00</lastmod>
+  </url><url>
+    <loc>https://navendu.me/</loc>
+    <lastmod>2023-07-07T11:11:14+08:00</lastmod>
+  </url><url>
+    <loc>https://navendu.me/posts/</loc>
+    <lastmod>2023-07-07T11:11:14+08:00</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/</loc>
+    <lastmod>2023-07-07T11:11:14+08:00</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/tutorial/</loc>
+    <lastmod>2023-07-07T11:11:14+08:00</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/wasm/</loc>
+    <lastmod>2023-07-07T11:11:14+08:00</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/iot-to-cloud/</loc>
     <lastmod>2023-06-30T10:08:54+05:30</lastmod>
@@ -30,15 +54,6 @@
     <lastmod>2023-06-30T10:08:54+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/mqtt/</loc>
-    <lastmod>2023-06-30T10:08:54+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/</loc>
-    <lastmod>2023-06-30T10:08:54+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/posts/</loc>
-    <lastmod>2023-06-30T10:08:54+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/tags/</loc>
     <lastmod>2023-06-30T10:08:54+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/ai/</loc>
@@ -85,12 +100,6 @@
   </url><url>
     <loc>https://navendu.me/tags/service-mesh/</loc>
     <lastmod>2023-06-16T13:59:59+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/categories/api-gateway/</loc>
-    <lastmod>2023-06-12T10:20:25+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/tags/api-gateway/</loc>
-    <lastmod>2023-06-12T10:20:25+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/apisix-go-brr/</loc>
     <lastmod>2023-06-12T10:20:25+05:30</lastmod>
@@ -327,9 +336,6 @@
     <lastmod>2023-03-23T13:45:08+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/encrypted-communication-with-gpg/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/tags/tutorial/</loc>
     <lastmod>2023-03-23T13:45:08+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/categories/tutorials/</loc>
