@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Jul 2023 09:40:14 +0530</lastBuildDate><atom:link href="https://navendu.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jul 2023 09:10:27 +0800</lastBuildDate><atom:link href="https://navendu.me/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comparing Kubernetes Gateway and Ingress APIs</title>
       <link>https://navendu.me/posts/gateway-vs-ingress-api/</link>
@@ -46,6 +46,15 @@
       
       <guid>https://navendu.me/posts/best-practices-for-building-reliable-apis/</guid>
       <description>As the size of your APIs increase, the need for making them reliable and robust also increases. This article discusses the best practices for designing reliable APIs by introducing you to a special kind of reverse proxies called API gateways.</description>
+    </item>
+    
+    <item>
+      <title>Grunt Work with RegEx</title>
+      <link>https://navendu.me/posts/regex-grunt-work/</link>
+      <pubDate>Fri, 14 Jul 2023 09:10:27 +0800</pubDate>
+      
+      <guid>https://navendu.me/posts/regex-grunt-work/</guid>
+      <description>My recent experience in using regular expressions to automate a menial task.</description>
     </item>
     
     <item>

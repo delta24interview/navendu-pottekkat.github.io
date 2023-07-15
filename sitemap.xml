@@ -14,6 +14,33 @@
     <loc>https://navendu.me/posts/best-practices-for-building-reliable-apis/</loc>
     <lastmod>2023-04-04T15:16:03+05:30</lastmod>
   </url><url>
+    <loc>https://navendu.me/categories/automation/</loc>
+    <lastmod>2023-07-14T09:13:17+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/automation/</loc>
+    <lastmod>2023-07-14T09:13:17+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/categories/</loc>
+    <lastmod>2023-07-14T09:13:17+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/posts/regex-grunt-work/</loc>
+    <lastmod>2023-07-14T09:13:17+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/</loc>
+    <lastmod>2023-07-14T09:13:17+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/posts/</loc>
+    <lastmod>2023-07-14T09:13:17+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/regex/</loc>
+    <lastmod>2023-07-14T09:13:17+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/software-engineering/</loc>
+    <lastmod>2023-07-14T09:13:17+05:30</lastmod>
+  </url><url>
+    <loc>https://navendu.me/tags/</loc>
+    <lastmod>2023-07-14T09:13:17+05:30</lastmod>
+  </url><url>
     <loc>https://navendu.me/posts/tiny-apisix-plugin/</loc>
     <lastmod>2023-07-07T11:11:14+08:00</lastmod>
   </url><url>
@@ -24,18 +51,6 @@
     <lastmod>2023-07-07T11:11:14+08:00</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/api-gateway/</loc>
-    <lastmod>2023-07-07T11:11:14+08:00</lastmod>
-  </url><url>
-    <loc>https://navendu.me/categories/</loc>
-    <lastmod>2023-07-07T11:11:14+08:00</lastmod>
-  </url><url>
-    <loc>https://navendu.me/</loc>
-    <lastmod>2023-07-07T11:11:14+08:00</lastmod>
-  </url><url>
-    <loc>https://navendu.me/posts/</loc>
-    <lastmod>2023-07-07T11:11:14+08:00</lastmod>
-  </url><url>
-    <loc>https://navendu.me/tags/</loc>
     <lastmod>2023-07-07T11:11:14+08:00</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/tutorial/</loc>
@@ -1137,9 +1152,6 @@
     <lastmod>2022-01-01T19:56:44+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/categories/software-engineering/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
-  </url><url>
-    <loc>https://navendu.me/tags/software-engineering/</loc>
     <lastmod>2023-03-23T13:45:08+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/everything-about-gsoc/</loc>
