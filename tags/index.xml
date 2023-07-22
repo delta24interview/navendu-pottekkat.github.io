@@ -11,7 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jul 2023 09:10:27 +0800</lastBuildDate><atom:link href="https://navendu.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Jul 2023 09:29:55 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>apache apisix</title>
+      <link>https://navendu.me/tags/apache-apisix/</link>
+      <pubDate>Fri, 21 Jul 2023 09:29:55 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/apache-apisix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>api gateway</title>
+      <link>https://navendu.me/tags/api-gateway/</link>
+      <pubDate>Fri, 21 Jul 2023 09:29:55 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/api-gateway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lua</title>
+      <link>https://navendu.me/tags/lua/</link>
+      <pubDate>Fri, 21 Jul 2023 09:29:55 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/lua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openresty</title>
+      <link>https://navendu.me/tags/openresty/</link>
+      <pubDate>Fri, 21 Jul 2023 09:29:55 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/openresty/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>automation</title>
       <link>https://navendu.me/tags/automation/</link>
@@ -36,24 +72,6 @@
       <pubDate>Fri, 14 Jul 2023 09:10:27 +0800</pubDate>
       
       <guid>https://navendu.me/tags/software-engineering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>apache apisix</title>
-      <link>https://navendu.me/tags/apache-apisix/</link>
-      <pubDate>Fri, 07 Jul 2023 09:40:14 +0530</pubDate>
-      
-      <guid>https://navendu.me/tags/apache-apisix/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>api gateway</title>
-      <link>https://navendu.me/tags/api-gateway/</link>
-      <pubDate>Fri, 07 Jul 2023 09:40:14 +0530</pubDate>
-      
-      <guid>https://navendu.me/tags/api-gateway/</guid>
       <description></description>
     </item>
     
