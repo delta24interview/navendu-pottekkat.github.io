@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 10:15:51 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jul 2023 09:40:14 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/tutorials/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An Introduction to Monitoring Microservices with Prometheus and Grafana</title>
       <link>https://navendu.me/posts/introduction-to-monitoring-microservices/</link>
@@ -19,6 +19,24 @@
       
       <guid>https://navendu.me/posts/introduction-to-monitoring-microservices/</guid>
       <description>This tutorial walks you through setting up monitoring on a microservice application using Prometheus and Grafana.</description>
+    </item>
+    
+    <item>
+      <title>A &#34;Tiny&#34; APISIX Plugin</title>
+      <link>https://navendu.me/posts/tiny-apisix-plugin/</link>
+      <pubDate>Fri, 07 Jul 2023 09:40:14 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/tiny-apisix-plugin/</guid>
+      <description>A &amp;ldquo;tiny&amp;rdquo; example to demonstrate how Apache APISIX supports Wasm plugins.</description>
+    </item>
+    
+    <item>
+      <title>Signed Commits and Encrypted Communication with GPG Keys</title>
+      <link>https://navendu.me/posts/encrypted-communication-with-gpg/</link>
+      <pubDate>Fri, 02 Dec 2022 10:04:40 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/encrypted-communication-with-gpg/</guid>
+      <description>Exploring how symmetric-key and public-key cryptography works by using GPG keys to sign commits and send encrypted messages.</description>
     </item>
     
     <item>

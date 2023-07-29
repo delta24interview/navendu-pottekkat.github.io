@@ -15,16 +15,16 @@
     <lastmod>2023-04-04T15:16:03+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/apache-apisix/</loc>
-    <lastmod>2023-07-21T15:22:36+05:30</lastmod>
+    <lastmod>2023-07-25T11:39:31+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/categories/api-gateway/</loc>
-    <lastmod>2023-07-21T15:22:36+05:30</lastmod>
+    <lastmod>2023-07-25T11:39:31+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/api-gateway/</loc>
-    <lastmod>2023-07-21T15:22:36+05:30</lastmod>
+    <lastmod>2023-07-25T11:39:31+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/categories/</loc>
-    <lastmod>2023-07-21T15:22:36+05:30</lastmod>
+    <lastmod>2023-07-25T11:39:31+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/data-mask-plugin/</loc>
     <lastmod>2023-07-21T15:22:36+05:30</lastmod>
@@ -33,16 +33,16 @@
     <lastmod>2023-07-21T15:22:36+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/</loc>
-    <lastmod>2023-07-21T15:22:36+05:30</lastmod>
+    <lastmod>2023-07-25T11:39:31+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/openresty/</loc>
     <lastmod>2023-07-21T15:22:36+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/</loc>
-    <lastmod>2023-07-21T15:22:36+05:30</lastmod>
+    <lastmod>2023-07-25T11:39:31+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/</loc>
-    <lastmod>2023-07-21T15:22:36+05:30</lastmod>
+    <lastmod>2023-07-25T11:39:31+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/categories/automation/</loc>
     <lastmod>2023-07-14T09:13:17+05:30</lastmod>
@@ -60,13 +60,13 @@
     <lastmod>2023-07-14T09:13:17+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/tiny-apisix-plugin/</loc>
-    <lastmod>2023-07-07T11:11:14+08:00</lastmod>
+    <lastmod>2023-07-25T11:39:31+05:30</lastmod>
   </url><url>
-    <loc>https://navendu.me/tags/tutorial/</loc>
-    <lastmod>2023-07-07T11:11:14+08:00</lastmod>
+    <loc>https://navendu.me/tags/tutorials/</loc>
+    <lastmod>2023-07-25T11:39:31+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/wasm/</loc>
-    <lastmod>2023-07-07T11:11:14+08:00</lastmod>
+    <lastmod>2023-07-25T11:39:31+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/iot-to-cloud/</loc>
     <lastmod>2023-06-30T10:08:54+05:30</lastmod>
@@ -255,7 +255,7 @@
     <lastmod>2023-03-10T21:36:36+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/communication/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-07-25T11:39:31+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/tips/</loc>
     <lastmod>2023-04-04T19:19:16+05:30</lastmod>
@@ -350,20 +350,17 @@
     <loc>https://navendu.me/tags/prometheus/</loc>
     <lastmod>2023-04-04T00:38:47+05:30</lastmod>
   </url><url>
-    <loc>https://navendu.me/tags/tutorials/</loc>
-    <lastmod>2023-04-04T18:01:42+05:30</lastmod>
-  </url><url>
     <loc>https://navendu.me/daily/4-12-22-benki-benki-boom-boom/</loc>
     <lastmod>2022-12-07T13:21:59+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/tags/security/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-07-25T11:39:31+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/posts/encrypted-communication-with-gpg/</loc>
-    <lastmod>2023-03-23T13:45:08+05:30</lastmod>
+    <lastmod>2023-07-25T11:39:31+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/categories/tutorials/</loc>
-    <lastmod>2023-04-04T18:01:42+05:30</lastmod>
+    <lastmod>2023-07-25T11:39:31+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/daily/27-11-22-a-day-of-fast-bowling/</loc>
     <lastmod>2022-11-28T10:57:29+05:30</lastmod>
@@ -1200,7 +1197,7 @@
     <lastmod>2023-04-04T18:01:42+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/about/</loc>
-    <lastmod>2023-05-13T17:37:26+05:30</lastmod>
+    <lastmod>2023-07-25T11:32:13+05:30</lastmod>
   </url><url>
     <loc>https://navendu.me/archives/</loc>
     <lastmod>2022-08-23T14:20:10+05:30</lastmod>
