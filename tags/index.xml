@@ -11,11 +11,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jul 2023 09:29:55 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Aug 2023 15:35:09 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>apache apisix</title>
       <link>https://navendu.me/tags/apache-apisix/</link>
-      <pubDate>Fri, 21 Jul 2023 09:29:55 +0530</pubDate>
+      <pubDate>Sat, 05 Aug 2023 15:35:09 +0530</pubDate>
       
       <guid>https://navendu.me/tags/apache-apisix/</guid>
       <description></description>
@@ -24,9 +24,18 @@
     <item>
       <title>api gateway</title>
       <link>https://navendu.me/tags/api-gateway/</link>
-      <pubDate>Fri, 21 Jul 2023 09:29:55 +0530</pubDate>
+      <pubDate>Sat, 05 Aug 2023 15:35:09 +0530</pubDate>
       
       <guid>https://navendu.me/tags/api-gateway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorials</title>
+      <link>https://navendu.me/tags/tutorials/</link>
+      <pubDate>Sat, 05 Aug 2023 15:35:09 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/tutorials/</guid>
       <description></description>
     </item>
     
@@ -72,15 +81,6 @@
       <pubDate>Fri, 14 Jul 2023 09:10:27 +0800</pubDate>
       
       <guid>https://navendu.me/tags/software-engineering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tutorials</title>
-      <link>https://navendu.me/tags/tutorials/</link>
-      <pubDate>Fri, 07 Jul 2023 09:40:14 +0530</pubDate>
-      
-      <guid>https://navendu.me/tags/tutorials/</guid>
       <description></description>
     </item>
     
